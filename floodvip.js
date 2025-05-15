@@ -1,3 +1,11 @@
+console.clear();
+console.log(`
+╔═══════════════════════════════════════════╗
+║          FloodVIP Script - DuocDev        ║
+║       Telegram: @DuocDev                  ║
+║       All Rights Reserved © 2025          ║
+╚═══════════════════════════════════════════╝
+`);
 const net = require("net");
 const http2 = require("http2");
 const tls = require("tls");
