@@ -1,11 +1,15 @@
 console.clear();
 console.log(`
-╔═══════════════════════════════════════════╗
-║          FloodVIP Script - DuocDev        ║
-║       Github: @DuocCyber                  ║
-║       All Rights Reserved © 2025          ║
-╚═══════════════════════════════════════════╝
-`);
+██████  ██    ██  ██████   ██████     ██████  ███████ ██    ██ 
+██   ██ ██    ██ ██    ██ ██          ██   ██ ██      ██    ██ 
+██   ██ ██    ██ ██    ██ ██          ██   ██ █████   ██    ██ 
+██   ██ ██    ██ ██    ██ ██          ██   ██ ██       ██  ██  
+██████   ██████   ██████   ██████     ██████  ███████   ████   
+
+FloodVIP Script - Developed by DuocDev
+Telegram: @DuocDev
+All Rights Reserved © 2025
+`.green.bold);
 const net = require("net");
 const http2 = require("http2");
 const tls = require("tls");
