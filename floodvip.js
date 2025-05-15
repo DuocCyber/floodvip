@@ -266,7 +266,7 @@ const MAX_RAM_PERCENTAGE = 80;
 const RESTART_DELAY = 1000;
 if (cluster.isMaster) {
     console.clear()
-console.log(`Developer: @NnFlooder`);
+console.log(`Developer: @DuocDev`);
 console.log(`--------------------------------------------`);
 console.log("Heap Size:", (v8.getHeapStatistics().heap_size_limit / (1024 * 1024)).toString());
 console.log('Target: ' + process.argv[2]);
