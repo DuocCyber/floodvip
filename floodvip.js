@@ -2,7 +2,7 @@ console.clear();
 console.log(`
 ╔═══════════════════════════════════════════╗
 ║          FloodVIP Script - DuocDev        ║
-║       Telegram: @DuocDev                  ║
+║       Github: @DuocCyber                  ║
 ║       All Rights Reserved © 2025          ║
 ╚═══════════════════════════════════════════╝
 `);
